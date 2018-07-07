@@ -7,3 +7,13 @@ body {
   padding: 1em;
   font-family: sans-serif;
 }
+
+.page-header {
+  background-color: #ccc;
+}
+
+.page-header__inner {
+  max-width: 990px;
+  margin: auto;
+  padding: 1em;
+}
