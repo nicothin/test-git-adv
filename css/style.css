@@ -17,3 +17,14 @@ body {
   margin: auto;
   padding: 1em;
 }
+
+
+.promo {
+  background-color: #ff0;
+}
+
+.promo__inner {
+  max-width: 990px;
+  margin: auto;
+  padding: 1em 3em;
+}
