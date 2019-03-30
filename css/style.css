@@ -40,6 +40,11 @@ body {
   padding: 1em;
 }
 
+.fast-contacts a {
+  text-decoration: none;
+  color: red;
+}
+
 .logo {
   font-size: 36px;
   font-weight: bold;
