@@ -39,3 +39,8 @@ body {
   margin: auto;
   padding: 1em;
 }
+
+.copyright {
+  font-weight: 700;
+  color: #0f0;
+}
