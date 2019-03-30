@@ -40,6 +40,11 @@ body {
   padding: 1em;
 }
 
+.logo {
+  font-size: 36px;
+  font-weight: bold;
+}
+
 .copyright {
   font-weight: 700;
   color: #0f0;
