@@ -29,6 +29,11 @@ body {
   padding: 1em 3em;
 }
 
+.news_item__button {
+  background-color: green;
+  width: 30px;
+  height: 5px;
+}
 
 .page-footer {
   background-color: #ccc;
