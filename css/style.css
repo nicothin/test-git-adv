@@ -34,6 +34,10 @@ body {
   background-color: #ccc;
 }
 
+.news_item-test {
+  background-color: #d90000;
+}
+
 .page-footer__inner {
   max-width: 990px;
   margin: auto;
