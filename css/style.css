@@ -44,3 +44,13 @@ body {
   text-decoration: none;
   color: red;
 }
+
+.logo {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.copyright {
+  font-weight: 700;
+  color: #0f0;
+}
