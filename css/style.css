@@ -39,3 +39,8 @@ body {
   margin: auto;
   padding: 1em;
 }
+
+.fast-contacts a {
+  text-decoration: none;
+  color: red;
+}
